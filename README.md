@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**ericyaang/ericyaang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eric Yang, a curious data adventurer obsessed with finding the nexus of data science and economics. My forte is in using machine learning to tame and extract meaning from structured data -- be it to make forward-looking predictions, tease out elusive patterns, or gain novel insights that drive impactful decisions. With the right approach, even the most mundane data sets can yield fascinating stories!
 
-Here are some ideas to get you started:
+I've shared some of my projects on my GitHub profile, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Housing Evaluation App](https://github.com/ericyaang/instant-property-prediction): An app for evaluating real estate properties in Florianópolis, Brazil using LightGBM machine learning. The app considers property location, size, and various features, as well as proximity to risk areas, transportation, hospitals, markets, and green spaces. It also provides code and datasets for analysis reproduction.
+
+[Predicting Restaurant Sales](https://github.com/ericyaang/forecasting-sales-for-a-restaurant): A reproducible project  for predicting the daily log sales of a restaurant for the next 7 days. Using the Extreme Gradient Boosting (XGBoost) algorithm, the project aims to optimize employee scheduling, manage labor costs, and improve overall efficiency and profitability.
+
+I'm currently focused on learning MLOps (Machine Learning Operations) to improve the deployment and management of machine learning models. I'm also continuously improving my skills in data science and exploring new techniques and algorithms.
+
+## 🔨 Technologies I Use
+
+Type | Tools
+------------- | -------------
+Languages |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+Backend | ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-informational?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+Design | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+DevOps | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Machine Learning & Data Science | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![streamlit](https://img.shields.io/badge/streamlit-informational?style=for-the-badge&logo=streamlit&logoColor=white&color=F63366) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+
+## Contact
+
+If you have any questions or would like to collaborate on a project, feel free to reach out to me on LinkedIn. I'm always open to new opportunities and ideas!
