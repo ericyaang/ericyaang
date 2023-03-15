@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Eric Yang, a curious data adventurer obsessed with finding the nexus of data science and economics. My forte is in using machine learning to tame and extract meaning from structured data -- be it to make forward-looking predictions, tease out elusive patterns, or gain novel insights that drive impactful decisions. With the right approach, even the most mundane data sets can yield fascinating stories!
+I'm Eric Yang, a curious data adventurer with a background in economics. My passion lies at the nexus of data science and economics, where I specialize in using machine learning to tame and extract meaning from structured data -- be it to make forward-looking predictions, tease out elusive patterns, or gain novel insights that drive impactful decisions. With the right approach, even the most mundane data sets can yield fascinating stories!
 
 I've shared some of my projects on my GitHub profile, including:
 
@@ -19,8 +19,3 @@ Backend | ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-info
 Design | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 DevOps | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 Machine Learning & Data Science | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![streamlit](https://img.shields.io/badge/streamlit-informational?style=for-the-badge&logo=streamlit&logoColor=white&color=F63366) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-
-## Contact
-
-If you have any questions or would like to collaborate on a project, feel free to reach out to me on LinkedIn. I'm always open to new opportunities and ideas!
