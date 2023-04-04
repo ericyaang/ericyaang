@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Eric Yang, a curious data adventurer with a background in economics. My passion lies at the nexus of data science and economics, where I specialize in using machine learning to tame and extract meaning from structured data -- be it to make forward-looking predictions, tease out elusive patterns, or gain novel insights that drive impactful decisions. With the right approach, even the most mundane data sets can yield fascinating stories!
+I'm Eric Yang, a curious data adventurer with a background in economics. My passion lies at the nexus of data science and economics, where I specialize in using machine learning to tame and extract meaning from structured data to make forward-looking predictions, tease out elusive patterns, or gain novel insights that drive impactful decisions. With the right approach, even the most mundane data sets can yield fascinating stories!
 
 I've shared some of my projects on my GitHub profile, including:
 
