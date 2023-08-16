@@ -1,20 +1,12 @@
 ### Hi there 👋
 
-I'm Eric Yang, a curious data adventurer with a background in economics. My passion lies at the nexus of data science and economics, where I specialize in using machine learning to tame and extract meaning from structured data to make forward-looking predictions, tease out elusive patterns, or gain novel insights that drive impactful decisions. With the right approach, even the most mundane data sets can yield fascinating stories!
-
-I've shared some of my projects on my GitHub profile, including:
-
-- [Housing Evaluation App](https://github.com/ericyaang/instant-property-prediction): An app for evaluating real estate properties in Florianópolis, Brazil using LightGBM machine learning. The app considers property location, size, and various features, as well as proximity to risk areas, transportation, hospitals, markets, and green spaces. It also provides code and datasets for analysis reproduction.
-
-- [Predicting Restaurant Sales](https://github.com/ericyaang/forecasting-sales-for-a-restaurant): A reproducible project  for predicting the daily log sales of a restaurant for the next 7 days. Using the Extreme Gradient Boosting (XGBoost) algorithm, the project aims to optimize employee scheduling, manage labor costs, and improve overall efficiency and profitability.
-
-I'm currently focused on learning MLOps (Machine Learning Operations) to improve the deployment and management of machine learning models. I'm also continuously improving my skills in data science and exploring new techniques and algorithms.
+I'm Eric Yang, a curious data adventurer with a background in economics, I have experience in data science, especially where it intersects with economics. I use machine learning to analyze structured data for predictive analyses, pattern recognition, and actionable insights. I also enjoy searching, extracting, and shaping datasets to be utilized in analytics and machine learning applications.
 
 ## 🔨 Technologies I Use
 
 Type | Tools
 ------------- | -------------
-Languages |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+Languages |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4285F4?style=for-the-badge&logo=SQL&logoColor=white)
 Backend | ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-informational?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 Design | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 DevOps | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
