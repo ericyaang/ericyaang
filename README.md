@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Eric Yang, a curious data adventurer with a background in economics, I have experience in data science, especially where it intersects with economics. I use machine learning to analyze structured data for predictive analyses, pattern recognition, and actionable insights. I also enjoy searching, extracting, and shaping datasets to be utilized in analytics and machine learning applications.
+I'm Eric Yang, a curious data adventurer with a background in economics. I specialize in the area where data science intersects with econometrics, I focus on predictive analytics, pattern recognition, and deriving actionable insights from structured data. I also enjoy searching, extracting, and shaping datasets to be utilized in analytics and machine learning applications.
 
 ## 🔨 Technologies I Use
 
